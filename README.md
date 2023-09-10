@@ -1,4 +1,4 @@
-## Hello, I'm Alex Souza!
+## Hello, I'm Alex Araújo!
 
 ### 🌐 Social Media
 
