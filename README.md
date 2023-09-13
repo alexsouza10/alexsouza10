@@ -37,9 +37,6 @@
 
 ### 📈 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsouza10&layout=pie&theme=radical)](https://github.com/alexsouza10) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsouza10&langs_count=8&theme=radical)](https://github.com/alexsouza10)
-
 
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexsouza10&theme=radical)](https://github.com/alexsouza10)
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexsouza10&theme=radical&utcOffset=8)](https://github.com/alexsouza10)
