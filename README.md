@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Technologies I use on a daily basis
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block" />
   <img width="60" height="60" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
   <img width="60" height="60" src="https://img.icons8.com/fluency/60/javascript.png" alt="javascript"/>
   <img width="60" height="60" src="https://img.icons8.com/fluency/60/html-5.png" alt="html-5"/>
