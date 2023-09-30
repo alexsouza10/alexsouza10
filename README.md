@@ -1,3 +1,5 @@
+
+
 ## Hello, I'm Alex Araújo!
 
 ### 🌐 Social Media   <img width="100" height="100" src="https://img.icons8.com/external-soft-fill-juicy-fish/100/external-developer-web-developer-soft-fill-soft-fill-juicy-fish.png" alt="external-developer-web-developer-soft-fill-soft-fill-juicy-fish" min-width="300px" max-width="300px" width="300px" align="right"/>
