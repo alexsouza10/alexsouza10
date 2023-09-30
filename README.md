@@ -1,24 +1,22 @@
 ## Hello, I'm Alex Araújo!
 
-### 🌐 Social Media
-
-[![Blog](https://img.shields.io/badge/Instagram-alex__081_-green?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/alex_081__/)
+### 🌐 Social Media   <img width="100" height="100" src="https://img.icons8.com/external-soft-fill-juicy-fish/100/external-developer-web-developer-soft-fill-soft-fill-juicy-fish.png" alt="external-developer-web-developer-soft-fill-soft-fill-juicy-fish" min-width="300px" max-width="300px" width="300px" align="right"/>
+[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/alexsouza10/)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>](https://www.instagram.com/alex_081__/)
 
 ### 👨‍💻 Technologies I use on a daily basis
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div></br>
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div></br>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/60/javascript.png" alt="javascript"/>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/60/html-5.png" alt="html-5"/>
+  <img width="60" height="60" src="https://img.icons8.com/color/60/css3.png" alt="css3"/>
+  <img width="60" height="60" src="https://img.icons8.com/plasticine/60/react.png" alt="react"/>
+  <img width="60" height="60" src="https://img.icons8.com/color/60/nodejs.png" alt="nodejs"/>
+  <img width="60" height="60" src="https://img.icons8.com/fluency/60/python.png" alt="python"/>
 
-## Turning ideas into code and creating the future, one commit at a time.</br>
+## Turning ideas into code and creating the future, one commit at a time. 
+
 
 ### 📈 Statistics
 
