@@ -9,14 +9,20 @@
 ### 👨‍💻 Technologies I use on a daily basis
 
 <div style="display: inline_block" />
-  <img width="50" height="60" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java">
-  <img width="60" height="60" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
-  <img width="60" height="60" src="https://img.icons8.com/fluency/60/javascript.png" alt="javascript"/>
-  <img width="60" height="60" src="https://img.icons8.com/fluency/60/html-5.png" alt="html-5"/>
-  <img width="60" height="60" src="https://img.icons8.com/color/60/css3.png" alt="css3"/>
-  <img width="60" height="60" src="https://img.icons8.com/plasticine/60/react.png" alt="react"/>
-  <img width="60" height="60" src="https://img.icons8.com/color/60/nodejs.png" alt="nodejs"/>
-  <img width="60" height="60" src="https://img.icons8.com/fluency/60/python.png" alt="python"/>
+<img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+</br>
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git" />
+  
 
 ## Turning ideas into code and creating the future, one commit at a time. 
 
