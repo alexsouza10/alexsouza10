@@ -9,9 +9,9 @@
 ### 👨‍💻 Technologies I use on a daily basis
 
 <div style="display: inline_block" />
-   <a href="./#"><img src="https://skillicons.dev/icons?i=java" />
-   <a href="./#"><img src="https://skillicons.dev/icons?i=spring" />
-   <a href="./#"><img src="https://skillicons.dev/icons?i=ts" />
+   <a href="#"><img src="https://skillicons.dev/icons?i=java" />
+   <a href="#"><img src="https://skillicons.dev/icons?i=spring" />
+   <a href="#"><img src="https://skillicons.dev/icons?i=ts" />
   
 
 ## Turning ideas into code and creating the future, one commit at a time. 
