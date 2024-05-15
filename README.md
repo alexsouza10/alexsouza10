@@ -9,12 +9,9 @@
 ### 👨‍💻 Technologies I use on a daily basis
 
 <div style="display: inline_block" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=git" />
+   <a href="./#"><img src="https://skillicons.dev/icons?i=java" />
+   <a href="./#"><img src="https://skillicons.dev/icons?i=spring" />
+   <a href="./#"><img src="https://skillicons.dev/icons?i=ts" />
   
 
 ## Turning ideas into code and creating the future, one commit at a time. 
