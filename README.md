@@ -9,18 +9,11 @@
 ### 👨‍💻 Technologies I use on a daily basis
 
 <div style="display: inline_block" />
-<img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=ts" />
-</br>
 <img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=git" />
   
 
