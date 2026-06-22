@@ -5,7 +5,7 @@
 <h1 align="center">Alex Araújo</h1>
 
 <h3 align="center">
-Full Stack Engineer • .NET • Python • React • Vue
+Full Stack Developer • .NET • Python • React • Vue
 </h3>
 
 <p align="center">
